@@ -17,6 +17,7 @@
 	<property name="format_sql">true</property>
 	
 	<mapping class="com.annotations.Address"/>
+	<mapping class="com.hibernate.singleton.Library"/>
 	
 	</session-factory>
 	
